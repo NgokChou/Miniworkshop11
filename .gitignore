@@ -1,0 +1,8 @@
+# Compiled class files
+bin/
+*.class
+
+# Excluded per requirement
+sample-output.txt
+README*
+README.md
